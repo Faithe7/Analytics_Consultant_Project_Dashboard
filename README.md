@@ -36,5 +36,5 @@ The cleaned dataset was first transformed in Power Query. A date table was creat
 ![Overview Dashboard](https://github.com/Faithe7/Analytics_Consultant_Project_Dashboard/blob/main/images/Analytics_Consultant_Project_Dashboard.PNG)
 
 ## Download
-<a href = "https://github.com/Faithe7/Analytics_Consultant_Project_Dashboard/blob/main/images/Faith%20Eliot%20Analytics%20Consultant%20Project%20Dashboard.pbix"> Download the Power BI file </a>
+<a href = "https://github.com/Faithe7/Analytics_Consultant_Project_Dashboard/blob/main/images/Faith_Eliot_Analytics_Consultant_Project_Dashboard.pbix"> Download the Power BI file </a>
 
